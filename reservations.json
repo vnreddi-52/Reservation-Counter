@@ -1,0 +1,20 @@
+{
+    "coach_name": "S1",
+    "num_cabins": 2,
+    "num_seats": 4,
+    "tickets": [
+        {
+            "passenger": {
+                "name": "vaish",
+                "aadhaar": "123456789009",
+                "age": 21,
+                "gender": "F"
+            },
+            "status": "Cancelled",
+            "seat": null,
+            "fare": 850,
+            "refund": 790,
+            "pnr": "37532A28-E942-43AE-A0E5-383D4F482A6B"
+        }
+    ]
+}
